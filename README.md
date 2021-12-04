@@ -1,6 +1,6 @@
-## Data Science Portfolio 
+## My Portfolio 
 
-This portfolio consists of several projects illustrating the work I have done in order to further develop my data science skills. 
+Project about Artificial Intelligence skills. 
 
 
 ## Table of Contents  
@@ -394,6 +394,6 @@ Methods:
 
 ## Contact
 If you are looking to contact me personally, please do so via E-mail or Linkedin:
-- E-mail: maartengrootendorst@gmail.com
-- [LinkedIn](https://www.linkedin.com/in/mgrootendorst/)
+- E-mail: mulkiahyasir@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/mulkiah/)
 
