@@ -45,7 +45,7 @@ Project about Artificial Intelligence skills.
 
 **`E-Health Form`** Develop electronic form for research questionnaire, we also have collaboration in developing electronic health record system for Cardiovascular Department, Hasan Sadikin Hospital Bandung, Indonesia, with DevOps Cycle..
   
-<img src="https://getodk.org/assets/svg/logo.svg>
+<img src="https://getodk.org/assets/svg/logo.svg">
 
 ---
 
