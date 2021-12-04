@@ -41,12 +41,11 @@ Project about Artificial Intelligence skills.
 ## Projects
 
 <a name="E-Health Form"/></a>
-###  [Preview](https://nariyah.pcinu.de/-/preview/dNe71yjaMJKVTfbm4VGN1SsJeKTM0ke)
-[Repository]
+###  [The Form Preview](https://nariyah.pcinu.de/-/preview/dNe71yjaMJKVTfbm4VGN1SsJeKTM0ke)
 
 **`E-Health Form`** Develop electronic form for research questionnaire, we also have collaboration in developing electronic health record system for Cardiovascular Department, Hasan Sadikin Hospital Bandung, Indonesia, with DevOps Cycle..
   
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgetodk.org%2F&psig=AOvVaw2dldRLSyNsqYoxz8WirzSx&ust=1638733372584000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCMCa2dbzyvQCFQAAAAAdAAAAABAD"/>
+<img src="https://getodk.org/assets/svg/logo.svg>
 
 ---
 
