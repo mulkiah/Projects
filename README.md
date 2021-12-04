@@ -11,7 +11,7 @@ Project about Artificial Intelligence skills.
 | [**Data Science**: Costumer Segmentation](https://github.com/mulkiah/Data-Science-with-R/blob/main/Customer%20Segmentation%20using%20Kmeans.R) | <img src="https://img.shields.io/badge/-Data Science-Green"><img src="https://img.shields.io/badge/-R-blue"> <img src="https://img.shields.io/badge/-K Means-red"> <img src="https://img.shields.io/badge/-DQLab-purple"> |
 | [**Data Science**: Product Packaging](https://github.com/mulkiah/Data-Science-with-R/blob/main/ML%20for%20Retail%20with%20R%20-%20Product%20Packaging.R) |<img src="https://img.shields.io/badge/-Data Science-Green"><img src="https://img.shields.io/badge/-R-blue"> <img src="https://img.shields.io/badge/-Apriori-red"> <img src="https://img.shields.io/badge/-DQLab-purple"> |
 | [**Data Science**: Klasifikasi Pinjaman](https://github.com/mulkiah/Data-Science-with-R/blob/main/Project%20Analisa%20Klasifikasi%20Pinjaman%20untuk%20Sektor%20UMKM.R) |<img src="https://img.shields.io/badge/-Data Science-Green"><img src="https://img.shields.io/badge/-R-blue"> <img src="https://img.shields.io/badge/-Multinomial Logistic Regression-red"> <img src="https://img.shields.io/badge/-DQLab-purple"> |
-
+| [**Data Science**: Covid Visualization](https://github.com/mulkiah/Teaching-Material/blob/main/Data%20Science/visualisasi_pesebaran_covid_19_di_indonesia.ipynb) |<img src="https://img.shields.io/badge/-Data Science-Green"><<img src="https://img.shields.io/badge/-Visualization-Yellow">img src="https://img.shields.io/badge/-Python-blue"> <img src="https://img.shields.io/badge/-GeoPandas">|
 <!--te-->
 
 ## Projects
