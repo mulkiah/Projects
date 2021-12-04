@@ -1,6 +1,6 @@
 ## My Portfolio 
 
-Project about Artificial Intelligence skills. 
+Project in Artificial Intelligence. 
 
 
 ## Table of Contents  
